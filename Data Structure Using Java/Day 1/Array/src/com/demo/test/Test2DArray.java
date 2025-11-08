@@ -14,10 +14,10 @@ public class Test2DArray {
         ob2.acceptData();
 
         System.out.println("\nob1:");
-        ob1.diaplayData();
+        ob1.displayData();
 
         System.out.println("\nob2:");
-        ob2.diaplayData();
+        ob2.displayData();
 
         int[] rowSums = ob1.findSumRowWise();
         System.out.println("\nRow-wise sum of ob1:");
