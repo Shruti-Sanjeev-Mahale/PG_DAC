@@ -1,0 +1,98 @@
+
+ Personal Information
+
+1. Name : MAHALE SHRUTI SANJEEV 
+2. Primary Email : mahaleshruti786@gmail.com 
+3. Sec Email : shrutimahale19112001@gmail.com 
+4. Ccpp Id : Will Be Aloted After Ccee Results
+5. Dob : 19/11/2001 | 19th November 2001
+6. Corre. Address : 1/57 Mukundnagar, CGSH Hospital, Pune-411037 
+7. Permanent Add : Same As Above
+8. Nationality : Indian
+9. Gender : Female
+10. Extra Curr Activities : Blank
+11. Languages : English, Marathi, Hindi
+
+Academic Details 
+
+10th
+
+1. Specialization : General
+2. Institute : Crescent High School And Junior College Pune
+3. Board : SSC
+4. Grade : DISTINCTION
+5. Obtained Marks :412
+6. Total Marks :500
+7. Year Of Passing : 2017
+
+12th 
+
+1. Specialization : General
+2. Institute : Mount Carmel High School And Junior College Pune
+3. Board : HSC
+4. Grade : II
+5. Obtained Marks :384
+6. Total Marks :650
+7. Year Of Passing : 2019
+
+Graduation Details 
+
+1. Graduation
+2. Stream : Engineering
+3. Qualification : Bachelor Of Computer Engineering
+4. Specialization : Computer Engineering
+5. University : Sppu
+6. Backlogs : 0
+7. No Of Attempts : 4 Years Degree Done In Same Time Frame Attempt Is 1
+8. Grade/Division : Ref. To Your Dip/Degree Certificate
+9. Course Duration : 4 Years
+10. Year Of Admission : 2019
+11. Year Of Passing : 2023
+12. Enter Marks : FE :945.1/1300
+                            SE:1152.2/1400
+                            TE:1215.2/1400
+                            BE:1159.2/1400
+
+Academic Projects 
+
+
+1. Select Qualification :PG DAC 
+2. Duration :1 Month For PG DAC 
+3. Git Repository :https://github.com/kunalpardeshi7666/Software-Dependency-Risk-Dashboard
+4. Project Description : 
+The Software Dependency Risk Dashboard is designed to help software teams monitor and manage risks in project dependencies. It ingests SBOMs (Software Bill of Materials) to track all project dependencies, checks for known vulnerabilities using public databases, and enforces license compliance policies. The backend is developed using .NET to analyze risks and expose APIs for integration and automation, while React.js is used for frontend visualization. The system provides clear insights, alerts, and trends, helping teams maintain safer and compliant software. 
+Future scope includes adding real-time vulnerability updates, automated remediation suggestions, integration with CI/CD pipelines, and AI-driven risk predictions.
+5. Project Title :Software Dependency Risk Dashboard 
+6. Platform Used :
+.NET (Backend), React.js (Frontend), APIs for integration, SBOM-based data processing, Git, Vulnerability & License Databases, Cloud Integration (Future Scope)
+
+
+
+1. Select Qualification :PG DAC 
+2. Duration :1 Month For PG DAC 
+3. Git Repository:https://github.com/Shruti-Sanjeev-Mahale/Projects.git
+4. Project Description :
+The Career Prediction System Using Machine Learning is designed to help students choose suitable career paths by analyzing their academic performance, skills, and interests. Many students struggle with career selection due to limited guidance and lack of awareness about emerging job trends, leading to career mismatches. 
+The objective of this project is to build an intelligent ML-based model that recommends appropriate career options using data-driven insights. The project uses Python, Scikit-Learn, Pandas, NumPy, and data visualization tools for model development, while the frontend is built with HTML, CSS, and JavaScript. Backend operations are handled using Flask/Django, and datasets are stored in CSV files.
+Future scope includes integration of real-time job market analysis, personalized AI-driven counseling, cloud deployment (AWS/Azure/GCP), and recommendation of skill-development courses.
+5. Project Title : Career Predictor System 
+6. Platform Used :
+Python, Flask/Django, HTML, CSS, JavaScript, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn, CSV Database, Git 
+
+
+Other Information 
+
+1. Aadhar Number : 460504959537
+2. Passport No. : Blank
+3. Religion : Hindu (Brahmin)
+4. Cast : Open
+5. Technical Certification :
+   A). Data Analytics Organized By Bnp Paribas, Nasscom, Quantum Learning
+   B). Full Stack Development & Manual Testing Organized By Qspiders
+   C). Sql, Core Java 8, Jpa With Hibernate, Git, Spring 5.0, Springboot, Html5, Css, Javascript, Typescript, Reactjs And Soft Skills Organized By Campus To Technical Careers Training Program, TNS Capgemini
+   D). Data Science & Analytics Using Python & R Organized By Microsoft Partner, Knowledge Solutions India
+6. Trainings : Blank
+7. Extra Curricular : Blank
+8. Hobbies : Blank
+
+
