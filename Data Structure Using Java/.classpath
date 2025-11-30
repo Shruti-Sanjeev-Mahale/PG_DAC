@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Day 1/Array/src"/>
+	<classpathentry kind="src" path="Day 10/StackAndQueue/src"/>
+	<classpathentry kind="src" path="Day 11/BinarySearchTree/src"/>
+	<classpathentry kind="src" path="Day 11/HashTable/src"/>
+	<classpathentry kind="src" path="Day 12/Graph/src"/>
+	<classpathentry excluding="com/demo/test/" kind="src" path="Day 2/Array/src"/>
+	<classpathentry kind="src" path="Day 2/Array/src/com/demo/test"/>
+	<classpathentry kind="src" path="Day 2/Searching/src"/>
+	<classpathentry kind="src" path="Day 3/SearchingAndSorting/src"/>
+	<classpathentry kind="src" path="Day 4/SearchingAndSorting/src"/>
+	<classpathentry kind="src" path="Day 5/SearchingAndSorting/src"/>
+	<classpathentry kind="src" path="Day 6/LinkedList/src"/>
+	<classpathentry kind="src" path="Day 6/SearchingAndSorting/src"/>
+	<classpathentry kind="src" path="Day 7/LinkedList/src"/>
+	<classpathentry kind="src" path="Day 8/LinkedList/src"/>
+	<classpathentry kind="src" path="Day 9/LinkedList/src"/>
+	<classpathentry kind="src" path="Day 9/StackAndQueue/src"/>
+	<classpathentry kind="output" path="Day 1/Array/bin"/>
+</classpath>
